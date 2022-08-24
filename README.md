@@ -2,6 +2,8 @@
 
 ### 📌 Trabalhando com a ferramenta Figma foi desenvolvido o projeto para transformar um layout em html e css.
 
+🔗 Link -> <a href="https://rodrigoluigi.github.io/LP-Form-Mentoria/">Formulário Mentoria</a>
+
 # <br><img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
 Projeto de uma página estática, na qual trabalhamos com formulários para capturar dados através da web. Desenvolvemos um formulário clean com HTML e CSS, utilizamos campos de entrada(imput) , campos de texto, data e hora, submit, validação de imputs e configuração de estilos seguindo layout do Figma.
