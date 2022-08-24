@@ -2,7 +2,7 @@
 
 ### 📌 Trabalhando com a ferramenta Figma foi desenvolvido o projeto para transformar um layout em html e css.
 
-🔗 Link -> <a href="https://rodrigoluigi.github.io/LP-Form-Mentoria/">Formulário Mentoria</a>
+🔗 Link -> <a href="https://rodrigoluigi.github.io/LP-Form-Mentoria/" target="_blank">Formulário Mentoria</a>
 
 # <br><img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
